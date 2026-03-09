@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # main.py
 import sys
 from PyQt6 import QtWidgets, QtCore, QtGui
