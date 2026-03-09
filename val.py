@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 
 def convert_currency(from_currency: str, to_currency: str, amount: float):
